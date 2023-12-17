@@ -23,7 +23,7 @@ public class TermuxApplication extends Application {
 
     public void onCreate() {
         super.onCreate();
-        WindowCompat.setDecorFitsSystemWindows(getWindow(), false);
+        
 
         Context context = getApplicationContext();
 
